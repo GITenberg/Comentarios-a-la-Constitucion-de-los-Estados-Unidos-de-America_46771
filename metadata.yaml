@@ -1,15 +1,21 @@
 _repo: Comentarios-a-la-Constitucion-de-los-Estados-Unidos-de-America_46771
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mexía, J. Cárlos
     gutenberg_agent_id: '43950'
     url: http://www.gutenberg.org/2009/agents/43950
+covers:
+- cover_type: archival
+  image_path: 46771-h/images/cover.jpg
 creator:
   author:
     agent_name: Kent, James
     gutenberg_agent_id: '43949'
     url: http://www.gutenberg.org/2009/agents/43949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46771#Comentarios-a-la-Constitucion-de-los-Estados-Unidos-de-America
 gutenberg_issued: '2014-09-05'
 gutenberg_type: Text
 identifiers:
