@@ -24,5 +24,7 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Comentarios a la Constitucion de los Estados Unidos de América
 url: http://www.gutenberg.org/ebooks/46771
